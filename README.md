@@ -1,6 +1,6 @@
 # soc-orientace-kostelu
 
-Tento repozitář obsahuje soutěžní text o prostorové orientaci sakrálních staveb (bůči světovým stranám), který byl prezentován v rámci soutěže SOČ (Středoškolská odborná činnost). Druhou položkou, již repozitář obsahuje, je soubor dat podkládající tuto práci.
+Tento repozitář obsahuje soutěžní text o prostorové orientaci sakrálních staveb Jihomoravského kraje a části kraje Vysočina (vůči světovým stranám), který byl prezentován v rámci soutěže SOČ (Středoškolská odborná činnost). Druhou položkou, již repozitář obsahuje, je soubor dat podkládající tuto práci.
 
 This repository contains a SOČ (Středoškolská odborná činnost) competition entry on the measurement of rotation of sacral buildings in part of Czech Republic (Jihomoravský kraj, part of kraj Vysočina) and the dataset the work is based on. Both of these items are in Czech language.
 
